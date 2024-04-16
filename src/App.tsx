@@ -1,7 +1,8 @@
 import './App.css'
+import RenphoTap from './devices/RenphoTap'
 
 function App() {
-  return <></>
+  return <RenphoTap />
 }
 
 export default App
